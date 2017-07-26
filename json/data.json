@@ -1,5 +1,4 @@
-{total: 2,
-  rows: [{
+ [{
       site: "长治作马",
       washoutka: 3,
       percent: 2.2,
@@ -68,4 +67,3 @@
       reservebankname: 3,
       sort_id: 1
     }]
-}
