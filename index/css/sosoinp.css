@@ -1,0 +1,34 @@
+.header{padding: 5px 0;}
+.Htitle{float: left;text-align: left;}
+
+
+button{position:absolute;top:12px;right:10px;width:78px;margin-left:10px;background: #fff;color: #339AFF;line-height:24px;padding:5px;border-radius: 8px;border: none;z-index: 999;}
+input{position:absolute;top:12px;left:48px;width:56%;height:28px;margin-top:0px;background:#fff;border: 1px solid #f1f1f1;border-radius: 2px;padding:2px 2%;}
+.bod{    float: left;
+    margin-top: 146px;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+.bod img{
+    width: 88px;
+    height: 84px;
+}
+.bod p{
+    margin-top: 10px;
+}
+	
+
+.ulli{float: left;width: 100%;margin-top:5px;list-style: none;}
+.lidiv{float:left;width:94%;padding:4px 3%;border-bottom:1px solid #eee;background: #fff;}
+.lidiv .listoreimgs{float: left;width:50px;height:50px;padding:10px;margin:20px 15px;background:center url(../../Uindex/img/AD/AD1.jpg);background-size: cover;}
+.lidiv .listore{float: left;width:65%;height: 110px;margin-left: 3%;position: relative;}
+.lidiv mark{position: absolute;top:4px;right: 0px;height: 40px;line-height: 40px;font-size: 16px;font-weight: bold;color: #339AFF;background: transparent;}
+.lidiv .listorename{float: left;width: 100%;line-height:35px;font-size:16px;color:#454545;}
+.lidiv .listoreadd{float: left;width: 100%;line-height:30px;height: 30px;font-size: 14px;color: #666;overflow: hidden;margin-bottom:4px;}
+.lidiv .lichanpin{float: left;width: 100%;list-style: none;padding-top:4px;}
+.lichanpin li{float:left;width:auto;padding:0px 10px;background: #f1f1f1;border-radius: 3px;margin-right: 8px;height:24px}
+.lichanpin li span{float: left;width: 100%;line-height:24px;text-align: left;font-size: 14px;color: #888;}
+
+
+   
